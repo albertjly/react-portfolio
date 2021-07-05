@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer">
       <div className="my-1">
         <h4>Email:</h4>
-        <span>albertjly@gmail.com</span>
+        <a href="mailto:albertjly@gmail.com">albertjly@gmail.com</a>
       </div>
       <div className="my-1">
         <h4>GitHub:</h4>
