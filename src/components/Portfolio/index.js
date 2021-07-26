@@ -3,7 +3,7 @@ import horiseonImg from '../../assets/images/horiseon-Home.png';
 import runBuddyImg from '../../assets/images/run-buddy(mobile).png';
 import project1Img from '../../assets/images/pick-my-meal.png';
 import project2Img from '../../assets/images/rate-my-ride.png';
-import portfolioImg from '../../assets/images/react-portfolio.png';
+import project3Img from '../../assets/images/fried-snacks-diner.png';
 import WorkItems from '../WorkItems';
 
 const items = [
@@ -46,9 +46,9 @@ const items = [
   {
     title: "React",
     desc: "React Project",
-    link: "https://react-portfolio-luyang-jiang.herokuapp.com/",
+    link: "https://evening-fjord-88647.herokuapp.com/",
     img: {
-      src: `${portfolioImg}`,
+      src: `${project3Img}`,
       alt: "react project"
     }
   }
